@@ -42,15 +42,16 @@ Descriptor StaffClassification [237]
         item Teacher [237-020]
         
 
-        item Full Professor
-        item Assistant Professor
-        item Associate Professor
-        item Adjunct Professor
-        item Clinical Professor
-
         item School Counselor
         item School Social Worker
         item School Nurse
         item Speech Language Pathologist
         item Audiologist
         item Psychologist
+
+        item Full Professor
+        item Assistant Professor
+        item Associate Professor
+        item Adjunct Professor
+        item Clinical Professor
+	item Site Coordinator
