@@ -38,3 +38,4 @@ Descriptor StaffClassification [237]
         item "Adjunct Professor"
         item "Clinical Professor"
 	item "Site Coordinator"
+	item "Mentor Teacher"
